@@ -10,6 +10,7 @@ console.log(strReverseFunc('hello Bangladesh, welcome!'));
 
 
 
+
 // Task 2 : Create a function that takes an array of numbers as input and returns the sum of all positive numbers in the array. 
 const sumOfPositiveNum = (arr) => {
     let sum = 0
